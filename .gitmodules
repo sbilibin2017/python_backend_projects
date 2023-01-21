@@ -1,0 +1,9 @@
+[submodule "git_intro"]
+	path = git_intro
+	url = git@github.com:sbilibin2017/git_intro.git
+[submodule "middle_python_intro"]
+	path = middle_python_intro
+	url = git@github.com:sbilibin2017/middle_python_intro.git
+[submodule "hh_parser_analytics"]
+	path = hh_parser_analytics
+	url = git@github.com:sbilibin2017/hh_parser_analytics.git
