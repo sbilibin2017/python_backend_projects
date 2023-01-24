@@ -7,3 +7,8 @@
 [submodule "hh_parser_analytics"]
 	path = hh_parser_analytics
 	url = git@github.com:sbilibin2017/hh_parser_analytics.git
+[submodule "new_admin_panel_sprint_1"]
+	path = new_admin_panel_sprint_1
+	url = git@github.com:sbilibin2017/new_admin_panel_sprint_1.git
+
+
