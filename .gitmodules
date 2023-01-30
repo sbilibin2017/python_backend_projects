@@ -12,3 +12,6 @@
 	url = git@github.com:sbilibin2017/new_admin_panel_sprint_1.git
 
 
+[submodule "new_admin_panel_sprint_2"]
+	path = new_admin_panel_sprint_2
+	url = git@github.com:sbilibin2017/new_admin_panel_sprint_2.git
