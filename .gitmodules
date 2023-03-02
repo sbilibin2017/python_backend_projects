@@ -18,3 +18,6 @@
 [submodule "new_admin_panel_sprint_3"]
 	path = new_admin_panel_sprint_3
 	url = git@github.com:sbilibin2017/new_admin_panel_sprint_3.git
+[submodule "csgo_ml"]
+	path = csgo_ml
+	url = git@github.com:sbilibin2017/csgo_ml.git
